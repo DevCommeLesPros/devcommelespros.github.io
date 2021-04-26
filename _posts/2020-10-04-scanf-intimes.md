@@ -2,6 +2,7 @@
 layout: post
 title:  "scanf() pour les intimes"
 categories: [technical, C]
+excerpt: À la fonction scanf() on demande de réinterpreter tout ce qui est possible d'écrire avec un clavier en une suite de nombres à bases variables, de caractère, de chaînes de caractères, de pointeurs, le tout potentiellement parsemé d'espaces blancs. De ce fait, lorsqu'on arrive aux limites de l'interprétation, les résultats peuvent être inattendus.
 ---
 
 «`scanf` marche pas.»
