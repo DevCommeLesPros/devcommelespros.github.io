@@ -43,8 +43,8 @@ J'ai découvert récemment cette chaîne.
 Voici un ingénieur devenu manager qui nous donne sa perspective sur le monde du travail des développeurs logiciel.
 Particulièrement intéressant pour vous est qu'il est européen et qu'il partage donc un point de vue plus concret qu'un expatrié californien.
 
-Il a travaillé dans plusieurs grosses boîtes et ses vidéos sur les entretiens d'embauche sont particulièrement intéressant.
-Il vous fera comprendre ce que les compagnies recherchent et ce à quoi ils s'attendent.
+Il a travaillé dans plusieurs grosses boîtes et ses vidéos sur les entretiens d'embauche sont particulièrement intéressantes.
+Il vous fera comprendre ce que les compagnies recherchent et ce à quoi elles s'attendent.
 
 ## Healthy Software Developer
 
