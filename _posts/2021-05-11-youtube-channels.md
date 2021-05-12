@@ -102,7 +102,7 @@ J'aime particulièrement la série sur l'Intelligence Artificielle avec Rob Mile
 Chaîne : [https://www.youtube.com/user/numberphile](https://www.youtube.com/user/numberphile)
 
 Du même acabit que Computerphile mais avec une concentration sur, vous l'aurez deviné, les nombres.
-Mais préférés sont les «Tadashi's Toys».
+Mes préférés sont les «Tadashi's Toys».
 
 ## 3Blue1Brown
 
