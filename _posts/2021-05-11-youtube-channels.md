@@ -95,7 +95,7 @@ Ces chaînes proposent des sujets plus généraux mais encore en lien avec l'inf
 Chaîne : [https://www.youtube.com/user/Computerphile](https://www.youtube.com/user/Computerphile)
 
 Des professeurs d'université nous introduisent à de divers sujets en lien avec les ordinateurs, leur architecture, leur utilisation.
-J'aime particulièrement la série sur l'Intelligence Artificielle avec Rob Miles où il explore le degré d'indépendance qu'il serait possible de donner à un robot.
+J'aime particulièrement la série sur l'Intelligence Artificielle avec Rob Miles où il explore le degré d'autonomie qu'il serait possible de donner à un robot.
 
 ## Numberphile
 
